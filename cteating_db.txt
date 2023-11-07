@@ -1,0 +1,8 @@
+
+https://www.digitalocean.com/community/tutorials/how-to-use-flask-sqlalchemy-to-interact-with-databases-in-a-flask-application
+
+В командной строке:
+
+flask shell
+
+db.create_all()
